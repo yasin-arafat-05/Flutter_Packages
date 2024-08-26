@@ -52,7 +52,11 @@ vii) DropDownButton
 
 
 
-# 7. Others Widgets:
+# 7. SnackBar Widgets:
+
+![demo_image](/image/hadi/img01.png)
+
+# 8. Others Widgets:
 
 I) MediaQuery , Theme
 ii) Divider , VarticalDivider

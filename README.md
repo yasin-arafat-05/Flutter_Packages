@@ -51,8 +51,7 @@
 
 ### 1) Scrollable bottom sheet: [github_link]()
 <br>
-
-![imgae_gif](image/yasin/img05.gif)
+<img src="image/yasin/img05.gif" alt="boottom sheet" width="150",height="100">
 <br>
 
 # T:
